@@ -11,10 +11,6 @@ const web={
 export default web;
 
 
-
-
-
-
 //ARRAY mas de un objeto//
 /*const web=[
     {
